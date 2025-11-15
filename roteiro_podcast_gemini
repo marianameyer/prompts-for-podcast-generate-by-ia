@@ -1,0 +1,60 @@
+## 🎙️ Roteiro do Podcast: Phishing de Conteúdo (Episódio Piloto)
+
+**Tema Principal:** Fundamentos e o Ataque da Semana
+
+**Duração Estimada:** 3 minutos
+
+---
+
+### [INTRODUÇÃO] (Duração Estimada: 0:30)
+
+**(Música de abertura animada e rápida)**
+
+**MARI:** Olá, novatos da segurança! Eu sou a Mari, e este é o **Phishing de Conteúdo** – o seu *scan* rápido e certeiro no universo da cibersegurança. Aqui, a gente "pesca" só o que é essencial e te entrega em doses rápidas para você brilhar na sua jornada Junior.
+
+Sabe aquela sensação de que o mundo *cyber* anda rápido demais? A gente te entende! Por isso, neste episódio, vamos direto ao ponto: vamos falar sobre a mãe de todas as vulnerabilidades e te trazer um *flash* sobre o ataque que está dominando as manchetes.
+
+Prepara o café, aperta o *play*, e vamos lá!
+
+---
+
+### [TEMA 1] – O Bê-á-bá: O que é o Phishing? (Duração Estimada: 1:00)
+
+**MARI:** Para começar do zero, e já que o nome do nosso podcast é uma homenagem, precisamos falar sobre o **Phishing**.
+
+**Definição Simples:** Pense no Phishing como uma isca digital. É quando o cibercriminoso se passa por alguém confiável (como seu chefe, seu banco ou uma rede social) para te enganar e fazer você clicar em um link malicioso ou dar informações confidenciais, como senhas e dados do cartão. É a velha arte de enganar, só que na internet.
+
+**Vulnerabilidades:** O ponto fraco aqui não é o sistema, é a gente! A vulnerabilidade é a **confiança** e a **desatenção**. O *hacker* explora a nossa pressa, curiosidade ou medo.
+
+**Prejuízos:** Os danos vão desde o roubo de senhas pessoais e esvaziamento da conta bancária até o comprometimento de toda a rede de uma empresa, causando prejuízos milionários e perda de credibilidade. É um risco que *todo* profissional, especialmente o Júnior, precisa saber identificar.
+
+---
+
+### [TEMA 2] – O Ataque da Semana: Falha de Permissão no *Cloud* (Duração Estimada: 0:50)
+
+**MARI:** E agora, o nosso **Scan de Tendências!**
+
+A notícia quente desta semana, que todo Júnior precisa ficar de olho, é sobre a segurança em **serviços de Nuvem (*Cloud*)**. Uma grande empresa de segurança identificou que a causa número um de vazamento de dados hoje não é o *hacker* invadindo, mas sim a **configuração errada de permissões** nos ambientes de Nuvem.
+
+Em outras palavras: é como deixar a porta da frente aberta sem querer. Um estagiário ou um *Dev* Júnior que, sem querer, dá acesso de leitura a um banco de dados sensível para o mundo todo, é um erro de configuração que se transforma em vazamento global.
+
+**A lição é:** O futuro da segurança está na Nuvem, e entender como as permissões funcionam *lá* é mais importante do que nunca. É o novo campo de batalha, e nós, da segurança, precisamos ser os mestres das configurações.
+
+---
+
+### [FINALIZAÇÃO] (Duração Estimada: 0:40)
+
+**MARI:** Uau! Cobrimos a base do Phishing e ainda vimos que o maior perigo hoje pode estar em um simples clique de permissão na Nuvem.
+
+**A reflexão que fica para você, profissional em início de carreira, é a seguinte:**
+
+Se o Phishing explora a **confiança** e a falha de permissão na Nuvem explora a **configuração errada**, o seu trabalho, no final das contas, é ser o **guardião da atenção e da precisão**.
+
+* Você está atento aos detalhes nos e-mails que recebe?
+* Você está 100% preciso nas permissões que aplica?
+
+No *cyber* não existe erro pequeno. Lembre-se disso.
+
+Por hoje, é só! Eu sou a Mari e te espero na próxima semana para mais um **Phishing de Conteúdo**. Até lá, fiquem seguros!
+
+**(Música de encerramento, diminui gradualmente)**
